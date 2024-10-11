@@ -48,7 +48,7 @@ const Intro = () => {
       >
         <span className="font-bold">Hello, I am Arthur.</span> I am a{" "}
         <span className="font-bold">Web developer</span> with{" "}
-        <span className="font-bold">2+ years</span> of experience. I am
+        <span className="font-bold">3 years</span> of experience. I am
         proficient in <span className="italic">technologies like</span>{" "}
         <span className="underline">React.js, Express.js</span>.
       </motion.h1>
